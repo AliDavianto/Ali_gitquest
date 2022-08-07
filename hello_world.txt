@@ -1,1 +1,1 @@
-Hello, World! My nama is Ali. I am a Stackie!
+Hello, World! My name is Ali. I am a Stackie!
